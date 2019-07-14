@@ -1,0 +1,11 @@
+Entre no jogo clicando no ícone.
+
+Clique em jogar para entrar no jogo. Após clicar,
+Um  vídeo será passado  e logo em seguida a parte 
+interativa começa.
+
+Utilize  as  setas para  cima  e  para baixo para 
+jogar.
+
+Em  caso  de  derrota,  volte a usar o mouse para 
+selecionar alguma das opções.
